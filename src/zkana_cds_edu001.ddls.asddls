@@ -3,8 +3,7 @@
 @AbapCatalog.preserveKey: true
 @AccessControl.authorizationCheck: #NOT_REQUIRED
 @EndUserText.label: 'NDBS Training CDS PO'
-@UI.presentationVariant: [{ sortOrder: [{ by: 'sas_baslik', direction: #ASC }] }]
-define view ZKANA_CDS_EDU001 as select from ekko 
+define view ZKANA_CDS_EDU001 as select from ekko
     inner join ekpo on ekpo.ebeln = ekko.ebeln
     inner join mara on mara.matnr = ekpo.matnr
     inner join makt on makt.matnr = mara.matnr
