@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IDOC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IDOC>
+    <ATTRIBUTES>
+     <DESCRP>IDOC Ödev</DESCRP>
+     <FIRSTTYP>ZKANA_IDOC01</FIRSTTYP>
+     <LASTTYP>ZKANA_IDOC01</LASTTYP>
+    </ATTRIBUTES>
+    <T_SYNTAX>
+     <EDI_IAPI02>
+      <NR>0001</NR>
+      <SEGTYP>ZKANA_IDOC01</SEGTYP>
+      <OCCMIN>0000000001</OCCMIN>
+      <OCCMAX>0000000001</OCCMAX>
+      <HLEVEL>01</HLEVEL>
+     </EDI_IAPI02>
+    </T_SYNTAX>
+   </IDOC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
