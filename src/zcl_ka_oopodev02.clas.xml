@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_KA_OOPODEV02</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>OOP Ödev Child Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Calling Parent and Child Methods</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>CV_CALLRES1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>CV_CALLRES2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>IV_CALL1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>IV_CALL2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>IV_CALL3</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CALL_METHODS</CMPNAME>
+     <SCONAME>IV_CALL4</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

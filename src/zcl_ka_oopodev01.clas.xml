@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_KA_OOPODEV01</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>OOP Ödev Parent Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>DIVIDE_NUMBERS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Division of Numbers</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>DIVIDE_NUMBERS</CMPNAME>
+     <SCONAME>CV_DIVRESULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DIVIDE_NUMBERS</CMPNAME>
+     <SCONAME>CX_SY_ZERODIVIDE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>System Exception Involving Division by Zero</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DIVIDE_NUMBERS</CMPNAME>
+     <SCONAME>IV_DIV1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DIVIDE_NUMBERS</CMPNAME>
+     <SCONAME>IV_DIV2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Net Weight</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
